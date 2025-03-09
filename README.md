@@ -6,6 +6,9 @@
 
 <h2>Paulo Fernandoy</h2>
 
+# Funciones
+Este proyecto sirve para sortear un premio entre un número X de amigos de forma aleatoria.
+
 # Software utilizados
 
 Java Script
